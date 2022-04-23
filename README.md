@@ -9,9 +9,7 @@
 8. [Lab 8](#lab8)
 9. [Lab 9](#lab9)
 10. [Lab 10](#lab10)
-11. [Lab 11](#lab11)
-12. [Lab 12](#lab12)
-13. [Project](#project)
+11. [Project](#project)
  
 # Lab 1 - Wypożyczalnia sprzętu narciarskiego <a name="lab1"></a>
 [folder link](https://github.com/roseannee/PPO_Sem_2/tree/master/lab_1)<br/><br/>
